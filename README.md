@@ -18,11 +18,11 @@
 | Skyrat 13 Discord         | [https://discord.com/invite/hGpZ4Z3](https://discord.com/invite/hGpZ4Z3) |
 | Coderbus Discord          | [https://discord.gg/Vh8TJp9](https://discord.gg/Vh8TJp9)               |
 
-This is Skyrat's downstream fork of /tg/station created in byond.
+This is Resdayn, a Morrowind 13 development project.
 
 **Please note that this repository contains sexually explicit content and is not suitable for those under the age of 18.**
 
-Space Station 13 is a paranoia-laden round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station, with charming spritework designed to represent the sci-fi setting and its dangerous undertones. Have fun, and survive!
+Resdayn is a an Elder Scrolls fan project set in the Fourth Era, Morrowind, a province wrecked by the machinations of the solipsist Dagoth Ur, the conquerer Molag Bal, and the decolonized revenge of the Argonian people.
 
 ## Important note - TEST YOUR PULL REQUESTS
 
